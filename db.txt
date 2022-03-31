@@ -1,2 +1,77 @@
 64b25bee-9397-4ec4-8985-9fa885aecdc3,WCF Demo,demo@daysharpner.com 
 cf2f33fd-b420-4a16-8116-7769a42357ef,WCF Demo,demo@daysharpner.com 
+a4297b49-6749-42c6-97ff-b291ac6e6965,SoapCore Demo,demo@daysharpner.com 
+f3ed4c7c-b62f-454d-b18b-6422d48f7ffd,SoapCore Demo,demo@daysharpner.com 
+18002238-861c-4c34-8ca5-459322eefa94,SoapCore Demo,demo@daysharpner.com 
+281aab8e-2fda-4cb7-bc7a-76e4c16a94fe,SoapCore Demo,demo@daysharpner.com 
+c88d09d5-a1ae-4ee4-b87b-09885a7c4056,SoapCore Demo,demo@daysharpner.com 
+66864b31-37ff-4344-84ca-830a3eac0046,SoapCore Demo,demo@daysharpner.com 
+dcf49f98-1bde-4a9d-9b18-3f76d2229d21,SoapCore Demo,demo@daysharpner.com 
+e6e12d34-5d19-4312-8b08-a6c5022f7e06,SoapCore Demo,demo@daysharpner.com 
+7d0e9e68-ce6d-4319-bf7e-4714805cd71c,SoapCore Demo,demo@daysharpner.com 
+f85e99bd-0093-4bd2-8137-42dce39ce3bd,SoapCore Demo,demo@daysharpner.com 
+42ada0dc-2660-4a81-98c0-b42216721399,SoapCore Demo,demo@daysharpner.com 
+609ccba1-2b04-481d-93e8-33046891dd58,SoapCore Demo,demo@daysharpner.com 
+58ec33c3-65a9-4caf-a0ca-17649467054c,SoapCore Demo,demo@daysharpner.com 
+cf836b2b-d465-4da9-95e3-ad36cf25f8b4,SoapCore Demo,demo@daysharpner.com 
+93520c51-0d89-4c15-9124-3f8c275b5fd1,SoapCore Demo,demo@daysharpner.com 
+b3e3441b-0919-409c-939a-f89a12798844,SoapCore Demo,demo@daysharpner.com 
+e740bacd-f3a4-4ed6-9d61-1b79f9d438b9,SoapCore Demo,demo@daysharpner.com 
+4e169101-ba25-4d78-be04-e9c1373d0f03,SoapCore Demo,demo@daysharpner.com 
+47b73917-c39c-474f-a2bc-8c3cf2206388,We Are OnLinux Demo0,fb0da935-5c56-4b76-922b-6aecf386b2de@gmail.com 
+add4b437-736f-466b-8a2d-a3b5dc45553d,We Are OnLinux Demo1,96b551a6-e166-414b-b6f3-86cf9ec07272@gmail.com 
+021cab78-8e6c-4d13-8de5-7f8fa142a909,We Are OnLinux Demo2,b46c8368-cef9-4858-8b52-695df2c26740@gmail.com 
+b0fe73af-8c2d-43f7-9406-b520b707846f,We Are OnLinux Demo3,fda7e31b-7065-4f32-934c-8252871a8e55@gmail.com 
+f604736d-6877-4484-b1b2-2945f013c139,We Are OnLinux Demo4,1cd19211-3c4f-407d-a4bd-5d07fae6a473@gmail.com 
+69c3cfcc-d65e-4183-a9a7-4d2312dcff8a,We Are OnLinux Demo5,d51f9ed2-e843-41bc-ab38-159d9a5a29ab@gmail.com 
+03bf3841-4114-496e-987e-96439b7647ec,We Are OnLinux Demo6,32e6eb8e-f13f-4fa7-ae1d-c119006c025b@gmail.com 
+7f58791d-76c1-4889-baa7-9f908f18730d,We Are OnLinux Demo7,c3cb8cb7-99e3-4de7-978b-05a7465ca6db@gmail.com 
+7ff62d3c-7280-4eee-bd1f-b75fdab74111,We Are OnLinux Demo8,1799e7a4-8496-44a9-8c62-1175acb3cb3e@gmail.com 
+77f7e7f6-9287-455b-b4cf-990fc074c2e8,We Are OnLinux Demo0,6265123e-edcf-4a8f-b080-70a60cf634ac@gmail.com 
+e1352559-c2fb-436d-9461-94f970272383,We Are OnLinux Demo1,2fef3255-0fb8-466a-aab9-6cd5c764f578@gmail.com 
+f28e4153-8b9d-48c9-8df6-d6863f5a382e,We Are OnLinux Demo2,b428d4c7-84b2-4202-a56c-e17a51e1a45d@gmail.com 
+58fc9bfa-0d7f-4f1b-859f-cabda7a19f56,We Are OnLinux Demo3,189583cb-41c5-4cc1-9362-7e2eaebc5c62@gmail.com 
+0de6e00d-fa96-4243-9b2a-21800ab32aef,We Are OnLinux Demo4,8d277c29-0781-4715-adb0-77620bef75b1@gmail.com 
+d7de385a-effa-4e0e-8f99-c4f1f9f4f23c,We Are OnLinux Demo5,f2115188-cad1-4953-bc75-2bd9bfb93e29@gmail.com 
+312c6593-95c9-4de8-a5e2-b6d528db2c5e,We Are OnLinux Demo6,352a3a65-192f-4210-a4af-ba8145e4eb9e@gmail.com 
+aa21350d-4012-48c9-ab3e-79a263799933,We Are OnLinux Demo7,41992e94-58fc-4a70-954c-d426851e8f56@gmail.com 
+6221b63c-6241-4157-8618-dfe7182614e9,We Are OnLinux Demo8,68f87f7d-8c9a-40f5-b17b-4d7549259a6a@gmail.com 
+890c148a-729d-4b5d-a54d-ac2e2a35cc09,We Are OnLinux Demo9,bcbaf622-e83d-48c3-b83c-29657c8035f2@gmail.com 
+51c2f4b1-56fc-41d1-acfb-42cf0e0b046d,We Are OnLinux Demo10,9b0f47f0-44d5-46bf-9da9-3f028220ba0b@gmail.com 
+0ecd95c1-b9f7-4725-88ac-f8d046e681c1,We Are OnLinux Demo11,83a54f29-f278-44d2-96fb-fa2c2a166454@gmail.com 
+5fa962fd-5696-4a2d-bf87-7984ad022cd1,We Are OnLinux Demo0,34b36304-21bd-4fcd-8cda-19a7a47af99f@gmail.com 
+b0a34cf9-5722-423c-8f40-1c5e0e631c45,We Are OnLinux Demo1,de284ed2-0c21-4181-9425-bf1aefe1a61d@gmail.com 
+df7d9feb-e19a-4582-a89e-54434474cd4d,We Are OnLinux Demo2,d6ced369-fac7-44c4-8270-8a629f0c9357@gmail.com 
+1376e557-64bd-4715-9423-f1d16e6fc84a,We Are OnLinux Demo3,1e43b670-2226-4e45-9398-394a88e52688@gmail.com 
+24c26660-3b9d-403c-a90d-4f9049743857,We Are OnLinux Demo4,68c70fe7-658f-4c24-84f9-837747ffbb01@gmail.com 
+26879d96-508d-420e-937d-ea003b64c0da,We Are OnLinux Demo5,9df517d4-fd23-4318-8e9e-bfbc68c37b9f@gmail.com 
+18d2c75d-9e5c-42a4-ab4c-164a7a7e54ea,We Are OnLinux Demo6,b5ce9ead-d69f-482c-ace1-1f7ed1206d88@gmail.com 
+2ea9e5c7-cb2b-4ba1-8061-b56795ea3b7d,We Are OnLinux Demo0,d07899da-0e8c-43be-8415-2209e85a9d3d@gmail.com 
+46631f50-b077-4d9c-b471-e7bed0b7c321,We Are OnLinux Demo1,f3f02bdc-b670-4312-ba76-e6d5f206f3cf@gmail.com 
+84ae5a92-1a9c-4749-b30b-05c76f585d0f,We Are OnLinux Demo2,b6930748-85ad-4274-aa93-f602fae4c168@gmail.com 
+b5fa7720-3e19-42c2-9f34-134f1b339629,We Are OnLinux Demo3,897edc7b-27c2-4cb7-8497-66b615f14646@gmail.com 
+c0310c03-ae0b-49bb-a1a2-dafd9cd908d2,We Are OnLinux Demo4,0e769fc0-3511-4406-84e9-1a877aa91aac@gmail.com 
+b7914cfb-65fd-489f-aef8-6545d91cbb2e,We Are OnLinux Demo5,2f671344-18a6-4b84-9025-8d45809c2d87@gmail.com 
+f7440927-96dc-4f1e-9ada-539ad3b232a0,We Are OnLinux Demo6,715f17b2-98db-4ea1-b2b2-1649eb16efe6@gmail.com 
+0d31247c-4379-4497-bd1b-f7d45d52dc17,We Are OnLinux Demo7,e30483b5-896f-44d5-b6fc-7bbf6da40e98@gmail.com 
+aa7b83b0-ee78-4172-b48d-362964a5e4ea,We Are OnLinux Demo8,43c272ab-6d19-494e-9ab0-76b652daaaee@gmail.com 
+d731ad67-8df2-4e4e-aed5-6e2b9a0be2b1,We Are OnLinux Demo9,cf323452-61d4-4a82-8a1e-039350fc7c7a@gmail.com 
+f0966a02-2fde-4a11-a088-5844e51cb05e,We Are OnLinux Demo0,2e3d8ea7-734e-43ce-ba0e-2219f2a46267@gmail.com 
+189a0f16-c3a0-40fc-9b95-ceee4cb4993b,We Are OnLinux Demo1,30fe398c-3610-4378-a36a-284470dbfdcc@gmail.com 
+73da882c-aaf0-4e35-b23e-087ed6e715f0,We Are OnLinux Demo2,8988e23c-2c07-45be-9326-ed3addd1c855@gmail.com 
+35eaa888-3ed5-44e1-a386-766f3c51b1d7,We Are OnLinux Demo3,71603bf1-4cbb-41a2-b064-3c793664811a@gmail.com 
+02f1be99-5604-4e57-b49c-23e98429543f,We Are OnLinux Demo4,836f2d5f-e125-491f-966a-941e37a4078d@gmail.com 
+e1b50077-ecce-496e-a3ac-40d9069e426e,We Are OnLinux Demo5,cc180bef-19ce-42d1-8bc6-2510b1e3a0d8@gmail.com 
+d23a23ea-d957-4c86-9d1e-caaeb61d43f4,We Are OnLinux Demo6,0f6cb937-561a-4899-8084-4228af0cabe2@gmail.com 
+ab4dd201-4254-479d-861d-8f56ce9ad99e,We Are OnLinux Demo7,6663e147-022d-4efb-a903-abaa9b27e90c@gmail.com 
+18299976-49ab-462b-915b-fcbf911545fc,We Are OnLinux Demo8,e659f1f1-2d80-4b55-93b3-e1a41bd596fc@gmail.com 
+a14693e7-f296-4283-9167-c02704e739c5,We Are OnLinux Demo0,dc290cea-17ee-4e56-8120-5b190e107260@gmail.com 
+e02a8caa-36fd-4862-b34b-072a8275f6c9,We Are OnLinux Demo0,95cd0fce-39d7-427f-899d-034a240aafc0@gmail.com 
+34f58b03-5ca4-4138-8d9d-f2e7f90c9630,We Are OnLinux Demo1,9a5ef188-0f02-4c41-b9f6-5d9d8c3045e9@gmail.com 
+5d3c428f-84a1-4f1b-ae9e-bbaf14989222,We Are OnLinux Demo2,b4379309-d1b8-4551-8073-1633936ca465@gmail.com 
+b06a133b-c670-4194-86e7-caef4fd48fc2,We Are OnLinux Demo3,d10823c9-c5f1-468e-9502-9a3ce8334cca@gmail.com 
+bef968e3-fa5c-4c14-8b91-07e6a205321b,We Are OnLinux Demo4,54d80ed0-694d-4327-8c5b-07ec5855e842@gmail.com 
+f0f81a4b-b664-4851-b74a-fb84f56e3c3a,We Are OnLinux Demo5,e5a53f87-1676-4075-90e0-80ebac3fc3fd@gmail.com 
+bf9591f8-d63e-41a0-a2c8-b4fec01cc3aa,We Are OnLinux Demo6,34de3317-6872-4d64-92f4-fdae208ff064@gmail.com 
+8577dfb9-11ad-48c4-bd67-21a28dbee07a,We Are OnLinux Demo7,4726b426-49e8-46dd-a150-ddbf65816e4b@gmail.com 
+a6e39a8c-4a58-440e-be9c-7a872da331df,We Are OnLinux Demo8,4179ee87-8c27-4c84-87c3-f6c7582b05f2@gmail.com 

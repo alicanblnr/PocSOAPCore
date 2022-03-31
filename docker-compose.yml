@@ -1,0 +1,25 @@
+
+version: '3.4'
+
+services:
+  datastoreclient:
+    image: datastoreclient
+    build:
+      context: .
+      dockerfile: DataStore.Client/Dockerfile
+    networks: 
+      - defaultlocal
+  datastoreserver:
+    image: datastoreservice
+    hostname: datastoreservice
+    build:
+      context: .
+      dockerfile: DataStore.Server/Dockerfile
+    networks: 
+      - defaultlocal
+    ports:
+      - 8081:80
+networks:
+    defaultlocal:
+        driver: bridge
+        external: true
